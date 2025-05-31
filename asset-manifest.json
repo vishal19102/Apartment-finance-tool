@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Apartment-finance-tool/static/css/main.514279ce.css",
+    "main.js": "/Apartment-finance-tool/static/js/main.83fb8570.js",
+    "static/js/453.a1334ea7.chunk.js": "/Apartment-finance-tool/static/js/453.a1334ea7.chunk.js",
+    "index.html": "/Apartment-finance-tool/index.html",
+    "main.514279ce.css.map": "/Apartment-finance-tool/static/css/main.514279ce.css.map",
+    "main.83fb8570.js.map": "/Apartment-finance-tool/static/js/main.83fb8570.js.map",
+    "453.a1334ea7.chunk.js.map": "/Apartment-finance-tool/static/js/453.a1334ea7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.514279ce.css",
+    "static/js/main.83fb8570.js"
+  ]
+}
